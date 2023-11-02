@@ -1,0 +1,1 @@
+# simulador-de-deixar-o-computador-sem-espa-o
